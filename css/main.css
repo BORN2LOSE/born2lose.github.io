@@ -69,6 +69,10 @@ hr {
   letter-spacing: 2px;
 }
 
+.navbar-left {
+  font-size: 20px;
+}
+
 #wrapper {
   background: url(../img/header.jpg) no-repeat center top;
   margin-top: -5px;
@@ -95,6 +99,10 @@ hr {
   font-size: 30px;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.col-lg-4 i {
+  font-size: 22px;
 }
 
 .w {
@@ -154,7 +162,7 @@ hr {
 }
 
 #rock {
-  background: #ff7878;
+  background: #2d2d2d;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -173,6 +181,12 @@ hr {
   background: #2d2d2d;
   padding-top: 30px;
   padding-bottom: 20px;
+}
+
+#foo p {
+  padding-top: 15px;
+  font-size: 20px;
+  color: #ffffff
 }
 
 #foo i {
